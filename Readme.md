@@ -1,3 +1,5 @@
+<img src="Readme.assets/物理竞赛.JPG" style="zoom:33%;" />
+
 <img src="Readme.assets/cet-4.png" style="zoom:25%;" />
 
 <img src="Readme.assets/ncre2-c.png" style="zoom: 50%;" />

@@ -15,3 +15,5 @@
 ![](Readme.assets/外观设计专利证书_家用智能取药机1.jpg)
 
 ![](Readme.assets/外观设计专利证书_家用智能取药机2.jpg)
+
+![](Readme.assets/%E8%93%9D%E6%A1%A5%E6%9D%AF1.jpg)

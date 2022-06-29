@@ -16,4 +16,7 @@
 
 ![](Readme.assets/外观设计专利证书_家用智能取药机2.jpg)
 
-![](Readme.assets/%E8%93%9D%E6%A1%A5%E6%9D%AF1.jpg)
+![1179513](Readme.assets/1179513.jpg)
+
+![image-20220629102511209](Readme.assets/image-20220629102511209.png)国赛证书还没发
+
